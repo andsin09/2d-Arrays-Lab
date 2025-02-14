@@ -63,8 +63,8 @@ int main(){
 
     cout << "Maximum Element: " << endl;
     cout << "Value: " << maxN << endl;
-    cout << "Row: " << rid << endl;
-    cout << "Column: " << cid << endl;
+    cout << "Row: " << rid+1 << endl;
+    cout << "Column: " << cid+1 << endl;
 
     
     
